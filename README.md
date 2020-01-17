@@ -1,2 +1,2 @@
 # amzing_python
-study python anb be a good man
+study python and be a good man
